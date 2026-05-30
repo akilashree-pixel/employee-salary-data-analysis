@@ -1,0 +1,47 @@
+Original Dataset
+     Name    Age DepartMent   Experience  Salary
+0     Arun  25.0          IT           2   30000
+1    Priya  28.0          HR           4   35000
+2    Rahul  32.0          IT           7   60000
+3   Kaviya  26.0     Finance           3   40000
+4    Vijay  35.0          IT          10   80000
+5      Anu  29.0          HR           5   45000
+6     Ravi  40.0     Finance          12   90000
+7    Divya  27.0          IT           3   38000
+8  Karthik   NaN          IT           4   42000
+9    Priya  28.0          HR           4   35000
+
+Missing Values
+Name           0
+Age            1
+DepartMent     0
+Experience     0
+Salary         0
+dtype: int64
+
+Cleaned Dataset
+     Name    Age DepartMent   Experience  Salary
+0     Arun  25.0          IT           2   30000
+1    Priya  28.0          HR           4   35000
+2    Rahul  32.0          IT           7   60000
+3   Kaviya  26.0     Finance           3   40000
+4    Vijay  35.0          IT          10   80000
+5      Anu  29.0          HR           5   45000
+6     Ravi  40.0     Finance          12   90000
+7    Divya  27.0          IT           3   38000
+8  Karthik  30.0          IT           4   42000
+
+Average Salary
+51111.11111111111
+
+Maximum Salary
+90000
+
+Minimum Salary
+30000
+
+
+
+
+
+
